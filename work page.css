@@ -40,7 +40,7 @@ section{
     text-align: center;
     font-family: pacifico;
     font-size: 50px;
-    color: white;
+    color: white!important;
 }
 .background{
     background-image: url('background.jpg');
@@ -61,10 +61,12 @@ section{
 footer{
     text-align: center;
     background-color: black;
-    color: white;
+    color: white!important;
     overflow: hidden;
     padding-bottom: 60px;
 }
+footer a{
+color: white;}
 .three{
 float: left;
 padding-left: 40px;
