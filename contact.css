@@ -35,6 +35,7 @@ float: right;
 }
 section{
     overflow: hidden;
+    colour: white;
 }
 .one{
     text-align: center;
